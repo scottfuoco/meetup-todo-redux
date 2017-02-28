@@ -1,0 +1,12 @@
+.todoContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 5%;
+}
+
+.todoFilters {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 50%;
+}
